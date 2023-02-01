@@ -37,9 +37,9 @@ The dataset contains of 10,866 rows and 21 columns. The columns include;
 
 > Analyzing the difference in attendance between patients who receive a text message confirmation after scheduling an appointment and those who do not.
 
-3) How many show up and does not show up for appointment on handcap?
+3) How many show up and does not show up for appointment on handicap?
 
-> To examine patient attendance in order to understand the relationship between those who are handcaps and those who do not.
+> To examine patient attendance in order to understand the relationship between those who are handicaps and those who do not.
 
 4) Which gender has the highest appointment attendance?
 
