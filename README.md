@@ -12,22 +12,19 @@ The dataset contains of 10,866 rows and 21 columns. The columns include;
 |**Column Name**|**Description**|
 |-----------------|-----------------|
 |**PatientId**|Identification of a patient|
-
-
-
-|**Appointment_ID**||Identification of each appointment|
-|**Gender**||Male or Female|
-|**Scheduled_Day**||The day of the actuall appointment, when they have to visit the doctor|
-|**Appointment_Day**||The day someone called or registered the appointment, this is before appointment of course|
-|**Age**||How old is the patient|
-|**Neighbourhood**||Where the appointment takes place|
-|**Scholarship**||True of False if the person had NHI| 
-|**Hypertension**||True or False whether the person has the medical condition or not|
-|**Diabetes**||True or False whether the person has the medical condition or not|
-|**Alcoholism**||True or False whether the person has the medical condition or not|
-|**Handicap**||Where the person is handicap or not|
-|**SMS_Received**||True or False whether the person received the sms or not|
-|**No_Show**||Yes or No whether the person showed up for the appointment or not|
+|**Appointment_ID**|Identification of each appointment|
+|**Gender**|Male or Female|
+|**Scheduled_Day**|The day of the actuall appointment, when they have to visit the doctor|
+|**Appointment_Day**|The day someone called or registered the appointment, this is before appointment of course|
+|**Age**|How old is the patient|
+|**Neighbourhood**|Where the appointment takes place|
+|**Scholarship**|True of False if the person had NHI| 
+|**Hypertension**|True or False whether the person has the medical condition or not|
+|**Diabetes**|True or False whether the person has the medical condition or not|
+|**Alcoholism**|True or False whether the person has the medical condition or not|
+|**Handicap**|Where the person is handicap or not|
+|**SMS_Received**|True or False whether the person received the sms or not|
+|**No_Show**|Yes or No whether the person showed up for the appointment or not|
 
 
 ### Question(s) for Analysis
