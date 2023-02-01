@@ -10,7 +10,9 @@ The dataset contains of 10,866 rows and 21 columns. The columns include;
 
 
 |**Column Name**||**Description**|
+
 |-----------------||-----------------|
+
 |**PatientId**||Identification of a patient|
 |**Appointment_ID**||Identification of each appointment|
 |**Gender**||Male or Female|
