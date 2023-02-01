@@ -9,8 +9,12 @@ This dataset collects information from 100k medical appointments in Brazil and i
 The dataset contains of 10,866 rows and 21 columns. The columns include;
 
 
+|**Column Name**|**Description**|
+|-----------------|-----------------|
+|**PatientId**|Identification of a patient|
 
-|**PatientId**||Identification of a patient|
+
+
 |**Appointment_ID**||Identification of each appointment|
 |**Gender**||Male or Female|
 |**Scheduled_Day**||The day of the actuall appointment, when they have to visit the doctor|
