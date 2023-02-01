@@ -31,7 +31,7 @@ The dataset contains of 10,866 rows and 21 columns. The columns include;
 
 1) What medical condition on or not on scholarship mostly show up or does not show up for appointment?
 
-> Examine the connection between the the medical condition of various patients, whether or not they are on scholarship , and whether or not they are showing up for appointments.
+> Examine the connection between the the medical condition of various patients, whether or not they are on scholarship, and whether or not they are showing up for appointments.
 
 2) What rate does those received sms show up for appointment?
 
@@ -44,3 +44,25 @@ The dataset contains of 10,866 rows and 21 columns. The columns include;
 4) Which gender has the highest appointment attendance?
 
 > Develop understanding of gender (males and females) differences in appointment attendance.
+
+
+<a id='conclusions'></a>
+## Conclusions
+
+### What medical condition on or not on scholarship mostly show up or does not show up for appointment?
+**Obeservation** This demonstrates that averagelly, patients with scholarships typically do not show for appointments, in contrast to patients without scholarships. This generally means that the majority of patients, whether on scholarship or not, tend to show up for appointments.
+
+### What rate does those received sms show up for appointment?
+**Observation** Most patients shows up for appointment after receiving sms. This indicate over 25,000 patients, while about 10,000 patients do not show up for appointment after receiving sms.
+
+### How many show up and does not show up for appointment on handicap?
+**Observation** Through the analysis, it was discovered that 80% shows up for appointment not handicap where the rest do. In total, this represented 80% not handicap and 20% people handicap.
+
+### Which gender has the highest appointment attendance?
+**Observation** Out of the total appointments scheduled, it was found that more than 79% Females and roughly 80% males actually showed up for their appointments. This demonstrates that, in contrast to Females, the majority of males prefer to make up for their appointment.
+
+## Limitation of the dataset
+> This finding cannot be generalized because this dataset was based on a particular geographic area.
+
+
+
