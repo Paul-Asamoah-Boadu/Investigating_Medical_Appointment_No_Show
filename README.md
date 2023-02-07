@@ -49,13 +49,13 @@ The dataset contains of 10,866 rows and 21 columns. The columns include;
 
 <h3>What medical condition on or not on scholarship mostly show up or does not show up for appointment?</h3>
 
-__Obeservation__ This demonstrates that averagelly, patients with scholarships typically do not show for appointments, in contrast to patients without scholarships. This generally means that the majority of patients, whether on scholarship or not, tend to show up for appointments.
+__Observation__ This demonstrates that averagelly, patients with scholarships typically do not show for appointments, in contrast to patients without scholarships. This generally means that the majority of patients, whether on scholarship or not, tend to show up for appointments.
 
-<h3>What rate does those received sms show up for appointment</h3>
+<h3>What rate does those received sms show up for appointment?</h3>
 
 __Observation__ Most patients shows up for appointment after receiving sms. This indicate over 25,000 patients, while about 10,000 patients do not show up for appointment after receiving sms.
 
-<h3>How many show up and does not show up for appointment on handicap</h3>
+<h3>How many show up and does not show up for appointment on handicap?</h3>
 
 __Observation__ Through the analysis, it was discovered that 80% shows up for appointment not handicap where the rest do. In total, this represented 80% not handicap and 20% people handicap.
 
