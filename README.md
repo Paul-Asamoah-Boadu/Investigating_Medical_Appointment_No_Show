@@ -1,4 +1,10 @@
-<h1>Investigating_Medical_Appointment_No_Show</h1>
+<p align="center">
+  <img src="Udacity.png" alt="Udacity logo">
+  <br>
+  <em>Udacity Data Analyst Nanodegree</em>
+</p>
+
+<h1>Investigating Medical Appointment No Show</h1>
 
 <h2>Introduction</h2>
 
