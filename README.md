@@ -11,7 +11,7 @@
 <h3>Dataset Description</h3>
 
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
-The dataset contains of 10,866 rows and 21 columns. The columns include;
+The dataset contains of __10,866 rows__ and 21 columns. The columns include;
 
 
 |**Column Name**|**Description**|
